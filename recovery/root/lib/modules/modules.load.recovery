@@ -120,6 +120,7 @@ rt-regmap.ko
 pd_dbg_info.ko
 tcpc_class.ko
 tcpc_rt1711h.ko
+tcpc_upm7610.ko
 mtk_chg_type_det.ko
 mtk_pd_adapter.ko
 mtk_pep40.ko

@@ -117,6 +117,7 @@ rt-regmap.ko
 pd_dbg_info.ko
 tcpc_class.ko
 tcpc_rt1711h.ko
+tcpc_upm7610.ko
 mtk_chg_type_det.ko
 mtk_pd_adapter.ko
 mtk_pep40.ko
@@ -177,3 +178,4 @@ tran_fp.ko
 tran_expand_key.ko
 tran_auto_test.ko
 sdcard_debug.ko
+pinned_notify.ko

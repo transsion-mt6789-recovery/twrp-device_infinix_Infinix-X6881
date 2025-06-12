@@ -1042,6 +1042,9 @@ alias of:N*T*Cmediatek,mt6765-dvfsrc mtk_emi
 alias of:N*T*Cmediatek,mt6765-dvfsrcC* mtk_emi
 alias of:N*T*Cmediatek,mt6761-dvfsrc mtk_emi
 alias of:N*T*Cmediatek,mt6761-dvfsrcC* mtk_emi
+alias i2c:upm7610 tcpc_upm7610
+alias i2c:rt1715 tcpc_upm7610
+alias i2c:rt1716 tcpc_upm7610
 alias of:N*T*Cmediatek,mt6357-auxadc mt635x_auxadc
 alias of:N*T*Cmediatek,mt6357-auxadcC* mt635x_auxadc
 alias of:N*T*Cmediatek,mt6358-auxadc mt635x_auxadc
